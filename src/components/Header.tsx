@@ -12,7 +12,7 @@ export function Header(){
           <Link href={'/'}>
             <div className="flex items-center">
                 <Image src={logoducinea} height={120} alt='logo da escola dulcinea gomes diniz'/>
-                <h1 className="p-4  sm:text-3xl font-bold">E.E.F Dulcinea Gomes Diniz </h1>
+                <h1 className="p-4  sm:text-xl lg:text-4xl font-bold">E.E.F Dulcinea Gomes Diniz </h1>
             </div>
           </Link>
 
