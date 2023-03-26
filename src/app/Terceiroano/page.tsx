@@ -16,10 +16,9 @@ export default function Terceiroano() {
         </div>
         <Content titulo="Terceiro Ano"> 
           <Card
-          link={'#'}
-          titulo={'Labirinto'}
-          descricao={'lorem mmirimimckmcnnjnjcsnjnjnncjnjsncjnsnjcnjdn'}
-          desenvolvedor={'ernandes quarto ano'}/>  
+          link={'https://scratch.mit.edu/projects/826077281'}
+          titulo={'Matemática'}
+          desenvolvedor={'Roberto'}/>  
         </Content>
          
       </main>
