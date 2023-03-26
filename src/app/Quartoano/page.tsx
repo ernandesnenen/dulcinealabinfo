@@ -11,12 +11,17 @@ export default function Quartoano() {
         </div>
         <Content titulo="Quarto Ano A">
           <Card
-          link={'#'}
-          titulo={'Labirinto'}
-          descricao={'lorem mmirimimckmcnnjnjcsnjnjnncjnjsncjnsnjcnjdn'}
-          desenvolvedor={'ernandes quarto ano'}/>  
+          link={'https://scratch.mit.edu/projects/826078497'}
+          titulo={'Pulo'}          
+          desenvolvedor={'Geanderson'}/>  
         </Content>
-         
+
+        <Content titulo="Quarto Ano C">
+          <Card
+          link={'https://scratch.mit.edu/projects/826079395'}
+          titulo={'Pulo'}          
+          desenvolvedor={'Douglas'}/>  
+        </Content>
       </main>
     )
   }
