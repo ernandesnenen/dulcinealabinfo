@@ -13,14 +13,14 @@ export default function Quartoano() {
           <Card
           link={'https://scratch.mit.edu/projects/826078497'}
           titulo={'Pulo'}          
-          desenvolvedor={'Geanderson'}/>  
+          desenvolvedor={'Geanderson Azevedo Barbosa'}/>  
         </Content>
 
         <Content titulo="Quarto Ano C">
           <Card
           link={'https://scratch.mit.edu/projects/826079395'}
           titulo={'Pulo'}          
-          desenvolvedor={'Douglas'}/>  
+          desenvolvedor={'Edson Douglas Silva Costa'}/>  
         </Content>
       </main>
     )
