@@ -18,7 +18,18 @@ export default function Terceiroano() {
           <Card
           link={'https://scratch.mit.edu/projects/826077281'}
           titulo={'Matemática'}
-          desenvolvedor={'Roberto Barbosa Neto'}/>  
+          desenvolvedor={'Roberto Barbosa Neto'}/>
+
+           
+          <Card
+          link={'https://scratch.mit.edu/projects/827345161'}
+          titulo={'Matemática'}
+          desenvolvedor={'João Arthur Oliveira Pereira'}/>  
+
+           <Card
+          link={'https://scratch.mit.edu/projects/827346076'}
+          titulo={'Nave'}
+          desenvolvedor={'Samuel Oliviera Martins'}/>   
         </Content>
          
       </main>
